@@ -1,9 +1,10 @@
+
+
+- title: "Web Development State of the Union"
+- date: "2018-01-15 10:46"
+- author: Lee Quessenberry
+
 ---
-title: "Web Development State of the Union"
-date: "2018-01-15 10:46"
-author: Lee Quessenberry
----
-___
 
 ## Research
 
@@ -13,7 +14,7 @@ ___
 - E-Site/Atria PPC - In Progress
 - Amazon Sales - Infancy
 
-___
+---
 
 ## Planning
 
@@ -22,7 +23,8 @@ ___
 - Discussions Between MIS, Web, and Purchasing
 - Barton's Lumber Redesign - Infancy
 
-___
+---
+
 
 ## Development
 
@@ -31,7 +33,7 @@ ___
 - E.C. Barton Preview - 90% Complete
 - Data Integrity / Sanitization - In Progress
 
-___
+---
 
 ## Execution
 
